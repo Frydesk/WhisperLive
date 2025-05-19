@@ -1,5 +1,5 @@
 PyAudio
-faster-whisper==1.1.1
+faster-whisper==1.1.0
 torch
 torchaudio
 websockets

@@ -19,7 +19,7 @@ Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: PyAudio
-Requires-Dist: faster-whisper==1.1.1
+Requires-Dist: faster-whisper==1.1.0
 Requires-Dist: torch
 Requires-Dist: torchaudio
 Requires-Dist: websockets
